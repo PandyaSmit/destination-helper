@@ -18,7 +18,7 @@ export async function GET(
       await fs.access(filePath)
     } catch (error) {
       // File doesn't exist
-      console.error(`Destination file not found for id ${id}`)
+      console.error(`Destination file not found for id ${id}`, error)
       return NextResponse.json(
         { error: 'Destination not found' },
         { status: 404 }

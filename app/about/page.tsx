@@ -13,7 +13,7 @@ export default function AboutPage() {
               <CardTitle>Our Mission</CardTitle>
             </CardHeader>
             <CardContent>
-              <p>At Travel Destinations, we're passionate about inspiring and enabling people to explore the world. Our mission is to provide comprehensive, up-to-date information about various destinations to help travelers make informed decisions and create unforgettable experiences.</p>
+              <p>At Travel Destinations, we&apos;re passionate about inspiring and enabling people to explore the world. Our mission is to provide comprehensive, up-to-date information about various destinations to help travelers make informed decisions and create unforgettable experiences.</p>
             </CardContent>
           </Card>
           <Card>
@@ -36,7 +36,7 @@ export default function AboutPage() {
               <CardDescription>Meet the passionate travelers behind Travel Destinations</CardDescription>
             </CardHeader>
             <CardContent>
-              <p>Our team consists of experienced travelers, writers, and developers who are dedicated to bringing you the best travel content and user experience. We're constantly updating our database and improving our platform to ensure you have access to the most current and relevant information for your travel planning needs.</p>
+              <p>Our team consists of experienced travelers, writers, and developers who are dedicated to bringing you the best travel content and user experience. We&apos;re constantly updating our database and improving our platform to ensure you have access to the most current and relevant information for your travel planning needs.</p>
             </CardContent>
           </Card>
         </div>
