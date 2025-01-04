@@ -1,0 +1,12 @@
+{
+    "id": "dubai",
+    "name": "Dubai",
+    "shortDescription": "The City of Gold",
+    "description": "Dubai, in the United Arab Emirates, is known for its luxury shopping, ultramodern architecture, and lively nightlife...",
+    "highlights": [
+        "Burj Khalifa",
+        "Palm Jumeirah",
+        "Dubai Mall"
+    ],
+    "bestTimeToVisit": "November to March"
+}

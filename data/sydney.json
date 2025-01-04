@@ -1,0 +1,12 @@
+{
+    "id": "sydney",
+    "name": "Sydney",
+    "shortDescription": "The Harbour City",
+    "description": "Sydney, located in Australia, is known for its stunning harbour, iconic landmarks, and vibrant outdoor lifestyle...",
+    "highlights": [
+        "Sydney Opera House",
+        "Sydney Harbour Bridge",
+        "Bondi Beach"
+    ],
+    "bestTimeToVisit": "September to November or March to May"
+}

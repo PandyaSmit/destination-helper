@@ -1,0 +1,12 @@
+{
+    "id": "tokyo",
+    "name": "Tokyo",
+    "shortDescription": "The Heart of Japan",
+    "description": "Tokyo, the capital of Japan, is famous for its blend of modernity and tradition, offering skyscrapers, temples, and unique cuisine...",
+    "highlights": [
+        "Tokyo Tower",
+        "Shibuya Crossing",
+        "Meiji Shrine"
+    ],
+    "bestTimeToVisit": "Spring (March to May) or Autumn (September to November)"
+}

@@ -1,0 +1,12 @@
+{
+    "id": "london",
+    "name": "London",
+    "shortDescription": "The Heart of the United Kingdom",
+    "description": "London, the capital of England and the UK, is renowned for its history, culture, and iconic landmarks...",
+    "highlights": [
+        "Big Ben",
+        "London Eye",
+        "Tower of London"
+    ],
+    "bestTimeToVisit": "Spring (March to May) or Autumn (September to November)"
+}

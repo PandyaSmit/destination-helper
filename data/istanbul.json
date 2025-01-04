@@ -1,0 +1,12 @@
+{
+    "id": "istanbul",
+    "name": "Istanbul",
+    "shortDescription": "Where East Meets West",
+    "description": "Istanbul, Turkey's cultural hub, bridges Europe and Asia with its unique blend of history and modernity...",
+    "highlights": [
+        "Hagia Sophia",
+        "Blue Mosque",
+        "Grand Bazaar"
+    ],
+    "bestTimeToVisit": "Spring (April to May) or Autumn (September to November)"
+}

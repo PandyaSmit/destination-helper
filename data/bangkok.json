@@ -1,0 +1,12 @@
+{
+    "id": "bangkok",
+    "name": "Bangkok",
+    "shortDescription": "The City of Angels",
+    "description": "Bangkok, the capital of Thailand, is famous for its vibrant street life, ornate temples, and bustling markets...",
+    "highlights": [
+        "Grand Palace",
+        "Wat Arun",
+        "Chatuchak Market"
+    ],
+    "bestTimeToVisit": "November to February"
+}

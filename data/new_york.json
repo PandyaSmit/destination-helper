@@ -1,0 +1,12 @@
+{
+    "id": "new_york",
+    "name": "New York",
+    "shortDescription": "The City That Never Sleeps",
+    "description": "New York City, located in the USA, is a bustling metropolis known for its skyline, cultural diversity, and vibrant energy...",
+    "highlights": [
+        "Statue of Liberty",
+        "Central Park",
+        "Times Square"
+    ],
+    "bestTimeToVisit": "Spring (April to June) or Fall (September to November)"
+}

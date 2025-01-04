@@ -1,0 +1,12 @@
+{
+    "id": "barcelona",
+    "name": "Barcelona",
+    "shortDescription": "The Catalan Jewel",
+    "description": "Barcelona, a vibrant city in Spain, is celebrated for its art, architecture, and Mediterranean charm...",
+    "highlights": [
+        "Sagrada Familia",
+        "Park Güell",
+        "La Rambla"
+    ],
+    "bestTimeToVisit": "May to June or September to October"
+}

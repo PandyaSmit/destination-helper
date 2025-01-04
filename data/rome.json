@@ -1,0 +1,12 @@
+{
+    "id": "rome",
+    "name": "Rome",
+    "shortDescription": "The Eternal City",
+    "description": "Rome, the capital of Italy, is steeped in history and culture, showcasing ancient ruins, art, and architecture...",
+    "highlights": [
+        "Colosseum",
+        "Vatican City",
+        "Trevi Fountain"
+    ],
+    "bestTimeToVisit": "Spring (April to June) or Autumn (September to October)"
+}

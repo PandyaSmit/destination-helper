@@ -1,0 +1,12 @@
+{
+    "id": "paris",
+    "name": "Paris",
+    "shortDescription": "The City of Light",
+    "description": "Paris, the capital of France, is known for its art, culture, and history...",
+    "highlights": [
+        "Eiffel Tower",
+        "Louvre Museum",
+        "Notre-Dame Cathedral"
+    ],
+    "bestTimeToVisit": "Spring (April to mid-June) or Fall (September to November)"
+}
